@@ -52,6 +52,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-*.vscode
+vscode
 
 # End of https://www.toptal.com/developers/gitignore/api/c
