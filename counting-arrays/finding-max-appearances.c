@@ -8,7 +8,7 @@ int main()
     int countArr[10] = {0};
     int maxValue;
     int indexMax;
-    int i, j, k;
+    int i, j;
 
     for(i=0; i<SIZE; i++)
     {
