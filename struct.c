@@ -23,6 +23,5 @@ int main()
         printf("Point #%d = (%d, %d)\n", i+1, pointsArray[i].x, pointsArray[i].y);
     }
 
-
     return 0;
 }
