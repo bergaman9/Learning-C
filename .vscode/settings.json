@@ -3,6 +3,8 @@
         "*.ejs": "html",
         "stdio.h": "c",
         "cmath": "c",
-        "cstdlib": "c"
-    }
+        "cstdlib": "c",
+        "limits": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
